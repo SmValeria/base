@@ -1,6 +1,6 @@
 # Демонстрация проектов Airplanet, Coworking, Afrodita 
 
-## [https://SmValeria.github.io/base/index.html](https://SmValeria.github.io/base/index.html)
+## [https://smvaleria.github.io/base/index.html](https://smvaleria.github.io/base/index.html)
 
 ## Контакты
 
